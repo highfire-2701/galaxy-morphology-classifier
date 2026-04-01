@@ -19,13 +19,15 @@ A Convolutional Neural Network (CNN) trained from scratch to classify galaxy ima
 
 ## Results
 
-| Class | Accuracy |
+| Metric | Value |
 |---|---|
-| Smooth, round | 93.3% |
-| Unbarred spiral | 89.2% |
-| Edge-on disk | 85.2% |
-| Smooth, cigar | 84.6% |
-| **Overall** | **88.05%** |
+| Overall test accuracy | ~88% |
+| Smooth, round | ~93% |
+| Smooth, cigar | ~85% |
+| Edge-on disk | ~85% |
+| Unbarred spiral | ~89% |
+
+
 
 Training curves and confusion matrix:
 
